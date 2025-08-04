@@ -14,7 +14,7 @@ This solution is ideal for businesses or professionals who frequently need to ga
 •	Healthcare Listings: Collect lists of clinics, hospitals, or specialists in certain regions.
 •	Data Aggregation: Collect and unify data from multiple online sources for internal analysis or reporting.
 
-# Project Steps (Summary) 
+# Project Steps (Summary)  
 
     Load Configuration
 
