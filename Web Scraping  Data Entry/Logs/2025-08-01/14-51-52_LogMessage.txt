@@ -1,0 +1,39 @@
+﻿[2025-08-01 14:51:52] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-08-01 14:51:55] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-08-01 14:51:55] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.
+
+[2025-08-01 14:51:56] [INFO] [OpenBrowserAndCapture.xaml] Opening Browser...
+
+[2025-08-01 14:52:29] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 14:52:33] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 14:52:37] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 20/50.
+
+[2025-08-01 14:52:41] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 29/50.
+
+[2025-08-01 14:52:45] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 29/50.
+
+[2025-08-01 14:52:48] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 38/50.
+
+[2025-08-01 14:52:52] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 38/50.
+
+[2025-08-01 14:52:56] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-01 14:53:00] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 49/50.
+
+[2025-08-01 14:53:04] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 49/50.
+
+[2025-08-01 14:53:08] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 50/50.
+
+[2025-08-01 14:53:08] [INFO] [OpenBrowserAndCapture.xaml] Capturing completed and passed for processing.
+
+[2025-08-01 14:53:09] [INFO] [OpenBrowserAndCapture.xaml]  Capturing Data End.
+
+[2025-08-01 14:53:09] [INFO] [OpenBrowserAndCapture.xaml] OpenBrowserAndCapture.xaml Excution End.
+
+[2025-08-01 14:53:10] [INFO] [ProcessData.xaml] Proccessing data complete and stored in: Extracted Data\2025-08-01\Hotel in Addis Ababaxlsx
+
+[2025-08-01 14:53:10] [INFO] [ProcessData.xaml] ProcessData.xaml Excution End.

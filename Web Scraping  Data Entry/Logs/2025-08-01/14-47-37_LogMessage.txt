@@ -1,0 +1,35 @@
+﻿[2025-08-01 14:47:37] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-08-01 14:47:39] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-08-01 14:47:39] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.
+
+[2025-08-01 14:47:40] [INFO] [OpenBrowserAndCapture.xaml] Opening Browser...
+
+[2025-08-01 14:48:13] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 14:48:17] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 14:48:21] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 20/50.
+
+[2025-08-01 14:48:25] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 29/50.
+
+[2025-08-01 14:48:29] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 29/50.
+
+[2025-08-01 14:48:33] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 38/50.
+
+[2025-08-01 14:48:37] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 38/50.
+
+[2025-08-01 14:48:41] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-01 14:48:45] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 49/50.
+
+[2025-08-01 14:48:49] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 49/50.
+
+[2025-08-01 14:48:53] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 50/50.
+
+[2025-08-01 14:48:53] [INFO] [OpenBrowserAndCapture.xaml] Capturing completed and passed for processing.
+
+[2025-08-01 14:48:53] [INFO] [OpenBrowserAndCapture.xaml]  Capturing Data End.
+
+[2025-08-01 14:48:53] [INFO] [OpenBrowserAndCapture.xaml] OpenBrowserAndCapture.xaml Excution End.

@@ -1,0 +1,35 @@
+﻿[2025-08-01 15:16:41] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-08-01 15:16:43] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-08-01 15:16:43] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.
+
+[2025-08-01 15:16:44] [INFO] [OpenBrowserAndCapture.xaml] Opening Browser...
+
+[2025-08-01 15:17:15] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 15:17:19] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 15:17:23] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 22/50.
+
+[2025-08-01 15:17:27] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 31/50.
+
+[2025-08-01 15:17:31] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 31/50.
+
+[2025-08-01 15:17:34] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-01 15:17:38] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-01 15:17:42] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 44/50.
+
+[2025-08-01 15:17:46] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 50/50.
+
+[2025-08-01 15:17:46] [INFO] [OpenBrowserAndCapture.xaml] Capturing completed and passed for processing.
+
+[2025-08-01 15:17:47] [INFO] [OpenBrowserAndCapture.xaml]  Capturing Data End.
+
+[2025-08-01 15:17:47] [INFO] [OpenBrowserAndCapture.xaml] OpenBrowserAndCapture.xaml Excution End.
+
+[2025-08-01 15:17:48] [INFO] [ProcessData.xaml] Proccessing data complete and stored in: Extracted Data\2025-08-01\Hotel in Parisxlsx
+
+[2025-08-01 15:17:48] [INFO] [ProcessData.xaml] ProcessData.xaml Excution End.

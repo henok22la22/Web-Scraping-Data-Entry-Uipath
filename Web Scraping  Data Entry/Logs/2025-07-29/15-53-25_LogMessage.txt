@@ -1,0 +1,5 @@
+﻿[2025-07-29 15:53:25] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-07-29 15:53:27] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-07-29 15:53:27] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.

@@ -1,0 +1,35 @@
+﻿[2025-08-01 15:17:58] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-08-01 15:17:58] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-08-01 15:17:58] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.
+
+[2025-08-01 15:17:58] [INFO] [OpenBrowserAndCapture.xaml] Opening Browser...
+
+[2025-08-01 15:18:29] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 13/50.
+
+[2025-08-01 15:18:33] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 22/50.
+
+[2025-08-01 15:18:37] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 22/50.
+
+[2025-08-01 15:18:41] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 35/50.
+
+[2025-08-01 15:18:45] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 35/50.
+
+[2025-08-01 15:18:49] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 35/50.
+
+[2025-08-01 15:18:53] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 44/50.
+
+[2025-08-01 15:18:56] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 44/50.
+
+[2025-08-01 15:19:00] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 50/50.
+
+[2025-08-01 15:19:00] [INFO] [OpenBrowserAndCapture.xaml] Capturing completed and passed for processing.
+
+[2025-08-01 15:19:01] [INFO] [OpenBrowserAndCapture.xaml]  Capturing Data End.
+
+[2025-08-01 15:19:01] [INFO] [OpenBrowserAndCapture.xaml] OpenBrowserAndCapture.xaml Excution End.
+
+[2025-08-01 15:19:01] [INFO] [ProcessData.xaml] Proccessing data complete and stored in: Extracted Data\2025-08-01\Football Clubs in Lomdonxlsx
+
+[2025-08-01 15:19:01] [INFO] [ProcessData.xaml] ProcessData.xaml Excution End.

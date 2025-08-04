@@ -1,0 +1,31 @@
+﻿[2025-08-01 14:03:27] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-08-01 14:03:30] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-08-01 14:03:30] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.
+
+[2025-08-01 14:03:31] [INFO] [OpenBrowserAndCapture.xaml] Opening Browser...
+
+[2025-08-01 14:04:07] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 14:04:11] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 18/50.
+
+[2025-08-01 14:04:15] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 22/50.
+
+[2025-08-01 14:04:19] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 31/50.
+
+[2025-08-01 14:04:23] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 31/50.
+
+[2025-08-01 14:04:27] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-01 14:04:31] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-01 14:04:35] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 44/50.
+
+[2025-08-01 14:04:39] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 50/50.
+
+[2025-08-01 14:04:40] [INFO] [OpenBrowserAndCapture.xaml] Capturing completed and data stored in  Data\ Hotels in Warsaw.xlsx
+
+[2025-08-01 14:04:40] [INFO] [OpenBrowserAndCapture.xaml]  Capturing Data End.
+
+[2025-08-01 14:04:40] [INFO] [OpenBrowserAndCapture.xaml] OpenBrowserAndCapture.xaml Excution End.

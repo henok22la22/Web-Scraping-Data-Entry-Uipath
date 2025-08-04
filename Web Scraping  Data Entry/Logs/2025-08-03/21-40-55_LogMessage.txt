@@ -1,0 +1,35 @@
+﻿[2025-08-03 21:40:55] [INFO] [InitAllSettings.xaml] Initialization all settings started...
+
+[2025-08-03 21:40:57] [INFO] [InitAllSettings.xaml] Initialization all settings completed.
+
+[2025-08-03 21:40:57] [ERORR] [InitAllSettings.xaml] InitAllSettings.xaml excution end.
+
+[2025-08-03 21:40:57] [INFO] [OpenBrowserAndCapture.xaml] Opening Browser...
+
+[2025-08-03 21:41:35] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 13/50.
+
+[2025-08-03 21:41:39] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 20/50.
+
+[2025-08-03 21:41:43] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 33/50.
+
+[2025-08-03 21:41:47] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 33/50.
+
+[2025-08-03 21:41:51] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 33/50.
+
+[2025-08-03 21:41:55] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-03 21:41:59] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 40/50.
+
+[2025-08-03 21:42:03] [INFO] [OpenBrowserAndCapture.xaml] Capturing Data 50/50.
+
+[2025-08-03 21:42:03] [INFO] [OpenBrowserAndCapture.xaml] Capturing completed and passed for processing.
+
+[2025-08-03 21:42:03] [INFO] [OpenBrowserAndCapture.xaml]  Capturing Data End.
+
+[2025-08-03 21:42:03] [INFO] [OpenBrowserAndCapture.xaml] OpenBrowserAndCapture.xaml Excution End.
+
+[2025-08-03 21:42:04] [INFO] [ProcessData.xaml] Proccessing data complete and stored in: Extracted Data\2025-08-03\Realstate in Addis Ababaxlsx
+
+[2025-08-03 21:42:04] [INFO] [ProcessData.xaml] ProcessData.xaml Excution End.
+
+[2025-08-03 21:42:10] [INFO] [Main.xaml] User end operation.
